@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\zad 2\bin\Debug\net7.0\zad 2.exe
+C:\Users\admin\Desktop\zad 2\bin\Debug\net7.0\zad 2.deps.json
+C:\Users\admin\Desktop\zad 2\bin\Debug\net7.0\zad 2.runtimeconfig.json
+C:\Users\admin\Desktop\zad 2\bin\Debug\net7.0\zad 2.dll
+C:\Users\admin\Desktop\zad 2\bin\Debug\net7.0\zad 2.pdb
+C:\Users\admin\Desktop\zad 2\obj\Debug\net7.0\zad 2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\zad 2\obj\Debug\net7.0\zad 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\zad 2\obj\Debug\net7.0\zad 2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\zad 2\obj\Debug\net7.0\zad 2.AssemblyInfo.cs
+C:\Users\admin\Desktop\zad 2\obj\Debug\net7.0\zad 2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\zad 2\obj\Debug\net7.0\zad 2.dll
+C:\Users\admin\Desktop\zad 2\obj\Debug\net7.0\refint\zad 2.dll
+C:\Users\admin\Desktop\zad 2\obj\Debug\net7.0\zad 2.pdb
+C:\Users\admin\Desktop\zad 2\obj\Debug\net7.0\zad 2.genruntimeconfig.cache
+C:\Users\admin\Desktop\zad 2\obj\Debug\net7.0\ref\zad 2.dll

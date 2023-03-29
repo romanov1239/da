@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\zad 6\bin\Debug\net7.0\zad 6.exe
+C:\Users\admin\Desktop\zad 6\bin\Debug\net7.0\zad 6.deps.json
+C:\Users\admin\Desktop\zad 6\bin\Debug\net7.0\zad 6.runtimeconfig.json
+C:\Users\admin\Desktop\zad 6\bin\Debug\net7.0\zad 6.dll
+C:\Users\admin\Desktop\zad 6\bin\Debug\net7.0\zad 6.pdb
+C:\Users\admin\Desktop\zad 6\obj\Debug\net7.0\zad 6.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\zad 6\obj\Debug\net7.0\zad 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\zad 6\obj\Debug\net7.0\zad 6.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\zad 6\obj\Debug\net7.0\zad 6.AssemblyInfo.cs
+C:\Users\admin\Desktop\zad 6\obj\Debug\net7.0\zad 6.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\zad 6\obj\Debug\net7.0\zad 6.dll
+C:\Users\admin\Desktop\zad 6\obj\Debug\net7.0\refint\zad 6.dll
+C:\Users\admin\Desktop\zad 6\obj\Debug\net7.0\zad 6.pdb
+C:\Users\admin\Desktop\zad 6\obj\Debug\net7.0\zad 6.genruntimeconfig.cache
+C:\Users\admin\Desktop\zad 6\obj\Debug\net7.0\ref\zad 6.dll
